@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @carbanos soy diseñador y ebanista español.
-- 👀 I’m interested in  el modelado en 3d de producto  , la fabricacion en CNC y la creación de contenido multimedia
-- 🌱 I’m currently learninga utilizar algunos complementos para desarrollo CNC y para crear contenido web
-
-- 💞
-
-
-
-- 📫 How to reach me cartis2hotmail.es
+- 👋 Hi, I’m @carbanos, I am a Spanish designer and cabinetmaker
+- 👀 I’m interested in 3d product modeling, CNC manufacturing and multimedia content creation
+- 🌱 I’m currently learning use some plugins for CNC development and to create web content
+📫 How to reach me cartis@hotmail.es
 
 
 <!---
